@@ -232,7 +232,7 @@ function ProductList(props) {
         }
     ];
    const styleObj={
-    backgroundColor: '#615EFC',
+    backgroundColor: '#FFFFFF',
     color: '#fff!important',
     padding: '15px',
     display: 'flex',
@@ -247,7 +247,7 @@ function ProductList(props) {
     width: '1100px',
    }
    const styleA={
-    color: 'white',
+    color: 'blue',
     fontSize: '30px',
     textDecoration: 'none',
    }
