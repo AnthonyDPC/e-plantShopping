@@ -10,7 +10,7 @@
   position: relative;
   width: 100vw;
   height: 100vh;
-  background-color: #f8f8f8;
+  background-color: #f0f8ff;
 }
 
 .background-image {
@@ -54,7 +54,7 @@
 
 .content p,
 .content h1 {
-  color: white;
+  color: aliceblue;
 }
 
 .content h1 {
@@ -79,7 +79,7 @@
   border: none;
   border-radius: 5px;
   background-color: #4caf50;
-  color: white;
+  color: aliceblue;
   cursor: pointer;
   transition: background-color 0.3s ease;
   margin-top: 40px;
